@@ -1,3 +1,3 @@
-:HL["/blackfriday-newyear-rass/_next/static/css/8b622e1f50929f99.css","style"]
+:HL["/blackfriday-newyear-rass/_next/static/css/229dd76b9ee21541.css","style"]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"1vi65zG16Q39guoFk6cQQ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"TX8rQbbDyh_dyb8CotLWk","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

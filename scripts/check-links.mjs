@@ -59,7 +59,7 @@ assert.equal(spb.leadUrl, "https://www.black-friday-gorbilet.ru/");
 const moscow = data.cities.find((c) => c.slug === "moskva");
 assert.equal(moscow.leadUrl, "https://gorbilet-site.github.io/ogni-moskvy/");
 assert.equal(data.leadHref(moscow), "https://gorbilet-site.github.io/ogni-moskvy/?utm_source=vk&utm_medium=rassilka_tr&utm_campaign=moscow_newyear_moscow&utm_content=ogni-moskvy");
-assert.equal(data.contacts.vk, "https://vk.me/gorbilet");
+assert.equal(data.contacts.vk, "https://vk.ru/gorbilet_travel");
 const preserved = new URL(data.withUtm("https://gorbilet.ru/spb/actions/example/?date=2027-01-01&utm_source=old#tickets", "spb"));
 assert.equal(preserved.searchParams.get("date"), "2027-01-01");
 assert.equal(preserved.hash, "#tickets");
