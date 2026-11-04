@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gorbilet-site.github.io/blackfriday-newyear-rass/sitemap.xml
