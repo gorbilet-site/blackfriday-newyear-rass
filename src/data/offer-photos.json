@@ -1,31 +1,63 @@
 {
   "https://gorbilet.ru/kaliningrad/actions/avtobusnaja-ekskursija-v-jantarnyj-i-svetlogorsk-s-posescheniem-proizvodstva-jantarja/": {
-    "src": "/offers/avtobusnaja-ekskursija-v-jantarnyj-i-svetlogorsk-s-posescheniem-proizvodstva-jantarja.webp",
+    "src": "/offers/avtobusnaja-ekskursija-v-jantarnyj-i-svetlogorsk-s-posescheniem-proizvodstva-jantarja-winter.webp",
     "sourceUrl": "https://media.gorbilet.ru/33/ed/5a/56/4f/f0/91_bJCdCS7.webp",
     "pageUrl": "https://gorbilet.ru/kaliningrad/actions/avtobusnaja-ekskursija-v-jantarnyj-i-svetlogorsk-s-posescheniem-proizvodstva-jantarja/",
     "title": "Автобусная экскурсия в Янтарный и Светлогорск с посещением производства янтаря со скидкой 20%",
-    "fetchedAt": "2026-11-04T12:00:33.022Z"
+    "fetchedAt": "2026-11-04T12:00:33.022Z",
+    "seasonalEdit": {
+      "season": "winter",
+      "method": "image_gen",
+      "originalSrc": "/offers/avtobusnaja-ekskursija-v-jantarnyj-i-svetlogorsk-s-posescheniem-proizvodstva-jantarja.webp",
+      "date": "2026-11-05",
+      "prompt": "coast",
+      "promptFile": "project-notes/winter-photo-prompts.json"
+    }
   },
   "https://gorbilet.ru/kaliningrad/actions/avtobusnaja-ekskursija-vechernij-kaliningrad-s-degustatsiej/": {
-    "src": "/offers/avtobusnaja-ekskursija-vechernij-kaliningrad-s-degustatsiej.webp",
+    "src": "/offers/avtobusnaja-ekskursija-vechernij-kaliningrad-s-degustatsiej-winter.webp",
     "sourceUrl": "https://media.gorbilet.ru/3d/f2/da/02/6b/dd/shutterstock_2143804285_57NRARc.webp",
     "pageUrl": "https://gorbilet.ru/kaliningrad/actions/avtobusnaja-ekskursija-vechernij-kaliningrad-s-degustatsiej/",
     "title": "Экскурсия «Вечерний Калининград» на пивоварню с дегустацией марципана со скидкой 20%",
-    "fetchedAt": "2026-11-04T12:00:33.056Z"
+    "fetchedAt": "2026-11-04T12:00:33.056Z",
+    "seasonalEdit": {
+      "season": "winter",
+      "method": "image_gen",
+      "originalSrc": "/offers/avtobusnaja-ekskursija-vechernij-kaliningrad-s-degustatsiej.webp",
+      "date": "2026-11-05",
+      "prompt": "evening",
+      "promptFile": "project-notes/winter-photo-prompts.json"
+    }
   },
   "https://gorbilet.ru/kaliningrad/actions/ekskursija-peshkom-po-amalienau/": {
-    "src": "/offers/ekskursija-peshkom-po-amalienau.webp",
+    "src": "/offers/ekskursija-peshkom-po-amalienau-winter.webp",
     "sourceUrl": "https://media.gorbilet.ru/00/fb/f8/cc/02/05/%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BA%D0%B8_%D0%BB%D0%B8%D1%81%D1%82%D0%B2%D1%8B_%D1%83_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F.webp",
     "pageUrl": "https://gorbilet.ru/kaliningrad/actions/ekskursija-peshkom-po-amalienau/",
     "title": "Экскурсия «Пешком по Амалиенау» со скидкой до 20%",
-    "fetchedAt": "2026-11-04T12:00:32.920Z"
+    "fetchedAt": "2026-11-04T12:00:32.920Z",
+    "seasonalEdit": {
+      "season": "winter",
+      "method": "image_gen",
+      "originalSrc": "/offers/ekskursija-peshkom-po-amalienau.webp",
+      "date": "2026-11-05",
+      "prompt": "amalienau",
+      "promptFile": "project-notes/winter-photo-prompts.json"
+    }
   },
   "https://gorbilet.ru/kaliningrad/actions/ekskursija-po-kaliningradu-na-dvuhetazhnom-avtobuse-so-skidkoj-20/": {
-    "src": "/offers/ekskursija-po-kaliningradu-na-dvuhetazhnom-avtobuse-so-skidkoj-20.webp",
+    "src": "/offers/ekskursija-po-kaliningradu-na-dvuhetazhnom-avtobuse-so-skidkoj-20-winter.webp",
     "sourceUrl": "https://media.gorbilet.ru/0e/f7/5e/17/32/00/928065d4-f12e-40d5-b3aa-b2de596a5432.webp",
     "pageUrl": "https://gorbilet.ru/kaliningrad/actions/ekskursija-po-kaliningradu-na-dvuhetazhnom-avtobuse-so-skidkoj-20/",
     "title": "Обзорная экскурсия по Калининграду на двухэтажном автобусе с дегустацией марципана со скидкой 20%",
-    "fetchedAt": "2026-11-04T12:00:32.958Z"
+    "fetchedAt": "2026-11-04T12:00:32.958Z",
+    "seasonalEdit": {
+      "season": "winter",
+      "method": "image_gen",
+      "originalSrc": "/offers/ekskursija-po-kaliningradu-na-dvuhetazhnom-avtobuse-so-skidkoj-20.webp",
+      "date": "2026-11-05",
+      "prompt": "bus",
+      "promptFile": "project-notes/winter-photo-prompts.json"
+    }
   },
   "https://gorbilet.ru/kazan/actions/art-muzej-dvorets-vpechatlenij-so-skidkoj-30/": {
     "src": "/offers/art-muzej-dvorets-vpechatlenij-so-skidkoj-30.webp",

@@ -58,6 +58,11 @@ function offerData(html, slug) {
 
 async function sync(pageUrl) {
   const slug = new URL(pageUrl).pathname.split("/").filter(Boolean).at(-1);
+  if (manifest[pageUrl]?.seasonalEdit && existsSync(resolve(root, `public${manifest[pageUrl].src}`))) {
+    results.push({ pageUrl, status: "ok", image: manifest[pageUrl].src, seasonalEditPreserved: true });
+    console.log("KEEP WINTER", slug);
+    return;
+  }
   try {
     const htmlPath = resolve(cache, `${slug}.html`);
     let html;
