@@ -67,18 +67,34 @@
     "fetchedAt": "2026-11-04T12:00:35.454Z"
   },
   "https://gorbilet.ru/kazan/actions/avtobusno-peshehodnaja-ekskursija-den-kazani-so-skidkoj-do-37/": {
-    "src": "/offers/avtobusno-peshehodnaja-ekskursija-den-kazani-so-skidkoj-do-37.webp",
+    "src": "/offers/avtobusno-peshehodnaja-ekskursija-den-kazani-so-skidkoj-do-37-winter.webp",
     "sourceUrl": "https://media.gorbilet.ru/62/fb/67/35/64/60/1a685ae7-23c4-4c70-a37e-83fb8bbb2146.webp",
     "pageUrl": "https://gorbilet.ru/kazan/actions/avtobusno-peshehodnaja-ekskursija-den-kazani-so-skidkoj-do-37/",
     "title": "Экскурсия «Вся Казань за один день» с дегустацией со скидкой 20%",
-    "fetchedAt": "2026-11-04T12:00:33.299Z"
+    "fetchedAt": "2026-11-04T12:00:33.299Z",
+    "seasonalEdit": {
+      "season": "winter",
+      "method": "image_gen",
+      "originalSrc": "/offers/avtobusno-peshehodnaja-ekskursija-den-kazani-so-skidkoj-do-37.webp",
+      "date": "2026-11-05",
+      "prompt": "kazan-day",
+      "promptFile": "project-notes/winter-photo-prompts.json"
+    }
   },
   "https://gorbilet.ru/kazan/actions/avtobusno-peshehodnaja-ekskursija-nochnaja-kazan-s-kataniem-na-kolese-obozrenija/": {
-    "src": "/offers/avtobusno-peshehodnaja-ekskursija-nochnaja-kazan-s-kataniem-na-kolese-obozrenija.webp",
+    "src": "/offers/avtobusno-peshehodnaja-ekskursija-nochnaja-kazan-s-kataniem-na-kolese-obozrenija-winter.webp",
     "sourceUrl": "https://media.gorbilet.ru/f4/c1/a2/6f/98/ad/ChatGPT_Image_9_%D1%81%D0%B5%D0%BD%D1%82._2026_%D0%B3._11_19_03.webp",
     "pageUrl": "https://gorbilet.ru/kazan/actions/avtobusno-peshehodnaja-ekskursija-nochnaja-kazan-s-kataniem-na-kolese-obozrenija/",
     "title": "Экскурсия «Ночная Казань» с катанием на колесе обозрения",
-    "fetchedAt": "2026-11-04T12:00:33.426Z"
+    "fetchedAt": "2026-11-04T12:00:33.426Z",
+    "seasonalEdit": {
+      "season": "winter",
+      "method": "image_gen",
+      "originalSrc": "/offers/avtobusno-peshehodnaja-ekskursija-nochnaja-kazan-s-kataniem-na-kolese-obozrenija.webp",
+      "date": "2026-11-05",
+      "prompt": "kazan-night",
+      "promptFile": "project-notes/winter-photo-prompts.json"
+    }
   },
   "https://gorbilet.ru/kazan/actions/gastronomicheskaja-ekskursija-po-kazani-so-vkusom-so-skidkoj-20/": {
     "src": "/offers/gastronomicheskaja-ekskursija-po-kazani-so-vkusom-so-skidkoj-20.webp",
@@ -102,18 +118,34 @@
     "fetchedAt": "2026-11-04T12:00:34.682Z"
   },
   "https://gorbilet.ru/nn/actions/ekskursija-v-kopore-i-nikola-kljuch-v-gosti-k-skazochnym-olenjam/": {
-    "src": "/offers/ekskursija-v-kopore-i-nikola-kljuch-v-gosti-k-skazochnym-olenjam.webp",
+    "src": "/offers/ekskursija-v-kopore-i-nikola-kljuch-v-gosti-k-skazochnym-olenjam-winter.webp",
     "sourceUrl": "https://media.gorbilet.ru/e3/e2/19/3b/93/59/Photogenica-PHX21125961.webp",
     "pageUrl": "https://gorbilet.ru/nn/actions/ekskursija-v-kopore-i-nikola-kljuch-v-gosti-k-skazochnym-olenjam/",
     "title": "Экскурсия в Копорье и Никола-ключ «В гости к сказочным оленям»",
-    "fetchedAt": "2026-11-04T12:00:33.713Z"
+    "fetchedAt": "2026-11-04T12:00:33.713Z",
+    "seasonalEdit": {
+      "season": "winter",
+      "method": "image_gen",
+      "originalSrc": "/offers/ekskursija-v-kopore-i-nikola-kljuch-v-gosti-k-skazochnym-olenjam.webp",
+      "date": "2026-11-05",
+      "prompt": "deer",
+      "promptFile": "project-notes/winter-photo-prompts.json"
+    }
   },
   "https://gorbilet.ru/nn/actions/peshehodnaja-ekskursija-legendy-i-predanija-nizhegorodskogo-kremlja/": {
-    "src": "/offers/peshehodnaja-ekskursija-legendy-i-predanija-nizhegorodskogo-kremlja.webp",
+    "src": "/offers/peshehodnaja-ekskursija-legendy-i-predanija-nizhegorodskogo-kremlja-winter.webp",
     "sourceUrl": "https://media.gorbilet.ru/93/7e/d1/ac/03/bb/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_ChatGPT_27_%D1%81%D0%B5%D0%BD%D1%82._2026_%D0%B3._18_08_24.webp",
     "pageUrl": "https://gorbilet.ru/nn/actions/peshehodnaja-ekskursija-legendy-i-predanija-nizhegorodskogo-kremlja/",
     "title": "Пешеходная экскурсия «Легенды и предания Нижегородского кремля» со скидкой 78%",
-    "fetchedAt": "2026-11-04T12:00:34.231Z"
+    "fetchedAt": "2026-11-04T12:00:34.231Z",
+    "seasonalEdit": {
+      "season": "winter",
+      "method": "image_gen",
+      "originalSrc": "/offers/peshehodnaja-ekskursija-legendy-i-predanija-nizhegorodskogo-kremlja.webp",
+      "date": "2026-11-05",
+      "prompt": "kremlin",
+      "promptFile": "project-notes/winter-photo-prompts.json"
+    }
   },
   "https://gorbilet.ru/spb/actions/chetyrehdnevnyj-tur-novyj-god-v-skazochnom-kenigsberge/": {
     "src": "/offers/chetyrehdnevnyj-tur-novyj-god-v-skazochnom-kenigsberge.webp",

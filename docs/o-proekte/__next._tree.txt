@@ -1,4 +1,4 @@
-:HL["/blackfriday-newyear-rass/_next/static/css/5bee5055f624b095.css","style"]
+:HL["/blackfriday-newyear-rass/_next/static/css/4a55623b356d94c9.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"o-proekte","h":64,"c":"$Q2"}]]
-0:{"b":"2_-03sGxO5kdj1XsW3g69","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"zTDXIdOyjg_Y8bKTIncbN","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
